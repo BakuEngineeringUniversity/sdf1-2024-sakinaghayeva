@@ -88,8 +88,8 @@ fun division(){
             continue
         }
 
-        val remainder = num1 / num2
-        println("Result: $remainder")
+        val division = num1 / num2
+        println("Result: $division")
         break
     }
 }
